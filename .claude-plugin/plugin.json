@@ -1,6 +1,6 @@
 {
   "name": "init-context",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate minimal, effective AGENTS.md files using the Differential Context principle. Based on research showing verbose context files reduce agent performance.",
   "author": {
     "name": "tmdgusya",
