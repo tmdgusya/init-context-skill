@@ -9,5 +9,6 @@
   "homepage": "https://github.com/tmdgusya/init-context-skill",
   "repository": "https://github.com/tmdgusya/init-context-skill",
   "license": "MIT",
-  "keywords": ["agents-md", "context", "init", "minimal", "differential-context", "skills"]
+  "keywords": ["agents-md", "context", "init", "minimal", "differential-context", "skills"],
+  "skills": "./skills/"
 }

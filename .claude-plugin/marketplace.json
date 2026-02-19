@@ -1,0 +1,23 @@
+{
+  "name": "tmdgusya-init-context-skill",
+  "owner": {
+    "name": "tmdgusya",
+    "email": "dev0jsh@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "init-context",
+      "source": "./",
+      "description": "Generate minimal, effective AGENTS.md files using the Differential Context principle",
+      "version": "1.0.0",
+      "author": {
+        "name": "tmdgusya",
+        "email": "dev0jsh@gmail.com"
+      },
+      "keywords": ["agents-md", "context", "init", "minimal", "differential-context"],
+      "homepage": "https://github.com/tmdgusya/init-context-skill",
+      "repository": "https://github.com/tmdgusya/init-context-skill",
+      "license": "MIT"
+    }
+  ]
+}
