@@ -27,7 +27,7 @@ To update:
 In Claude Code, invoke the skill:
 
 ```
-/init-context:gen-agents
+/init-context:init
 ```
 
 The skill will:

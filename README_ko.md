@@ -27,7 +27,7 @@ Claude Code에서 두 가지 명령어를 실행하세요:
 Claude Code에서 스킬을 호출하세요:
 
 ```
-/init-context:gen-agents
+/init-context:init
 ```
 
 스킬이 수행하는 작업:

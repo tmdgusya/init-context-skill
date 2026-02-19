@@ -1,5 +1,5 @@
 ---
-name: gen-agents
+name: init
 description: Use when the user wants to create, update, or review an AGENTS.md context file for their codebase, or when starting a new project that needs agent instructions
 ---
 
