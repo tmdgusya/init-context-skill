@@ -4,10 +4,22 @@ Generate minimal, effective AGENTS.md files for Claude Code.
 
 Based on research ([arxiv 2602.11988](https://arxiv.org/abs/2602.11988)) showing that verbose context files reduce agent performance. Uses the **Differential Context** principle: include only what differs from defaults + what is prohibited.
 
-## Install
+## Installation
+
+Run two commands in Claude Code:
 
 ```bash
-claude plugin add tmdgusya/init-context-skill
+# 1. Add the marketplace
+/plugin marketplace add tmdgusya/init-context-skill
+
+# 2. Install the plugin
+/plugin install init-context@tmdgusya-init-context-skill
+```
+
+To update:
+
+```bash
+/plugin update init-context
 ```
 
 ## Usage

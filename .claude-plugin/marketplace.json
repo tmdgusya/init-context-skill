@@ -1,5 +1,8 @@
 {
   "name": "tmdgusya-init-context-skill",
+  "metadata": {
+    "description": "Generate minimal AGENTS.md files using the Differential Context principle"
+  },
   "owner": {
     "name": "tmdgusya",
     "email": "dev0jsh@gmail.com"
